@@ -4,6 +4,6 @@
 
 Entorno Windows - **Microsoft Access - Base de Datos**
 
-Iniciado: Junio 2015 - Finalizado: Marzo 2016 (reemplaza a version SISADCO2000)
+Iniciado: Junio 2015 - Finalizado: Marzo 2016 ('reemplaza a version SISADCO2000')
 
 Funcionando hasta la actualidad en la Administracion de Consorcios **"Petito inmobiliaria"**
